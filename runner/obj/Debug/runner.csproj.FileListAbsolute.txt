@@ -1,0 +1,10 @@
+C:\Users\Shinigami\documents\visual studio 2013\Projects\ChatManager\runner\bin\Debug\runner.exe.config
+C:\Users\Shinigami\documents\visual studio 2013\Projects\ChatManager\runner\bin\Debug\runner.exe
+C:\Users\Shinigami\documents\visual studio 2013\Projects\ChatManager\runner\bin\Debug\runner.pdb
+C:\Users\Shinigami\documents\visual studio 2013\Projects\ChatManager\runner\bin\Debug\ChatManager.dll
+C:\Users\Shinigami\documents\visual studio 2013\Projects\ChatManager\runner\bin\Debug\PluginsCommon.dll
+C:\Users\Shinigami\documents\visual studio 2013\Projects\ChatManager\runner\bin\Debug\ChatManager.pdb
+C:\Users\Shinigami\documents\visual studio 2013\Projects\ChatManager\runner\obj\Debug\runner.csprojResolveAssemblyReference.cache
+C:\Users\Shinigami\documents\visual studio 2013\Projects\ChatManager\runner\obj\Debug\runner.exe
+C:\Users\Shinigami\documents\visual studio 2013\Projects\ChatManager\runner\obj\Debug\runner.pdb
+C:\Users\Shinigami\documents\visual studio 2013\Projects\ChatManager\runner\bin\Debug\CSharpAPI.dll
